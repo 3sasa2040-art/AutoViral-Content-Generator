@@ -1,0 +1,10 @@
+app/
+config/
+data/
+logs/
+output/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
