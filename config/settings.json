@@ -1,0 +1,6 @@
+{
+  "timezone": "Europe/Brussels",
+  "drafts_require_review": true,
+  "allowed_platforms": ["youtube", "tiktok"],
+  "max_drafts_per_run": 5
+}
