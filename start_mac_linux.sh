@@ -7,4 +7,4 @@ if [ ! -x .venv/bin/python ]; then
   .venv/bin/python -m pip install -r requirements.txt
   .venv/bin/python -m playwright install chromium
 fi
-.venv/bin/python -m app.gui
+.venv/bin/python -m app.approval_gui
