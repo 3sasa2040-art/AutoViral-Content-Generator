@@ -3,3 +3,6 @@ playwright>=1.49.0
 requests>=2.32.0
 python-dotenv>=1.0.1
 Pillow>=10.3.0
+moviepy>=1.6.0
+pyttsx3>=2.90
+croniter>=3.0.0

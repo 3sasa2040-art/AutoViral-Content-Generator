@@ -1,6 +1,12 @@
-{
-  "accounts": [
-    {"platform": "youtube", "enabled": false, "profile": "data/browser_profiles/youtube"},
-    {"platform": "tiktok", "enabled": false, "profile": "data/browser_profiles/tiktok"}
-  ]
-}
+[
+  {
+    "platform": "youtube",
+    "enabled": false,
+    "profile": "data/browser_profiles/youtube"
+  },
+  {
+    "platform": "tiktok",
+    "enabled": false,
+    "profile": "data/browser_profiles/tiktok"
+  }
+]
